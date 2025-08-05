@@ -1,12 +1,16 @@
 <!-- Dynamic Wave Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Yash%20Wardhan%20Shukla&fontSize=90&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Game%20Developer%20•%20Full%20Stack%20Engineer%20•%20Defense%20Tech%20Innovator&descAlignY=55&descSize=25" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Yash%20Wardhan%20Shukla&fontSize=70&fontAlignY=38&fontColor=fff&animation=twinkling&desc=Game%20Developer%20•%20Full%20Stack%20Engineer%20•%20Defense%20Tech%20Innovator&descAlignY=58&descSize=22" />
 </p>
 
-<!-- Animated Typing Introduction -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Welcome+to+my+Digital+Playground!+🎮;Where+Games+Meet+Code+and+Innovation+Meets+Reality+🚀" alt="Typing SVG" />
-</p>
+<!-- Animated Banner -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Welcome%20to%20my%20Digital%20Playground!%20🎮-000000?style=for-the-badge&labelColor=000000&color=58A6FF" alt="Welcome" />
+  <br/>
+  <img src="https://img.shields.io/badge/Where%20Games%20Meet%20Code%20and%20Innovation%20Meets%20Reality%20🚀-000000?style=for-the-badge&labelColor=000000&color=58A6FF" alt="Tagline" />
+</div>
+
+<br/>
 
 <!-- Profile Views & Social Links -->
 <p align="center">
@@ -216,11 +220,6 @@ me.say_hi()
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
-</p>
-
-<!-- Snake animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yash123414/Yash123414/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
